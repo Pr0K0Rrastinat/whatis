@@ -5,10 +5,10 @@ import './MemePage.css';
 
 const MemePage = () => {
     const blocks = [
-        { text: 'Дильназ,ты девушка с самым основательным подходом при выборе продуктов и не только', sticker: "/images/choose.gif" },
-        { text: 'И самым устращающим словом (Бан?)', sticker: "/images/ban.webp" },
-        { text: 'Ты самая пофигистичная', sticker: "/images/asd.gif" },
-        { text: 'Ты девушка с самым превлекающим видом ', sticker: "/images/ass.gif" },
+        { text: 'Дильназ,ты девушка с самым основательным подходом при выборе продуктов и не только', sticker: "images/choose.gif" },
+        { text: 'И самым устращающим словом (Бан?)', sticker: "images/ban.webp" },
+        { text: 'Ты самая пофигистичная', sticker: "images/asd.gif" },
+        { text: 'Ты девушка с самым превлекающим видом ', sticker: "images/ass.gif" },
         { text: 'И с прекасными руками', sticker: "./images/lap.webp" },
         { text: 'С прекрасным характером ', sticker: "./images/rage.gif" },
         { text: 'Коротко ты самая лучшая', sticker: "images/flowers.webp" } ,
