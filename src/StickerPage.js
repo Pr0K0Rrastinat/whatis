@@ -9,17 +9,17 @@ const [showMemePage, setShowMemePage] = useState(false);
 
 
   const blocks = [
-    { text: 'Дильназ,ты девушка с самым разнообразным вкусом в музыке', sticker: "/images/catlmusic.webp" },
-    { text: 'И самая милая девушка', sticker: "/images/cute.webp" },
-    { text: 'Самая грациозная', sticker: "/images/gracia.gif" },
-    { text: 'С самой прекрасной улыбкой', sticker: "/images/laughcat.webp" },
-    { text: 'Ты самая умная', sticker: "/images/smartcat.webp" },
-    { text: 'И самая позитивная ', sticker: "/images/positivecat.gif" },
-    { text: 'Ты просто сногсшибательная', sticker: "/images/snogcat.webp" },
-    { text: 'С самым чутькой вкусом выбора чая', sticker: "/images/teacat.webp" },
-    { text: 'Ты лучшая мотиватерша (Работай нигер,работай)', sticker: "/images/motivated.gif" },
-    { text: 'Самая заботливая ', sticker: "/images/carecat.webp" },
-    { text: 'Ты самая самая,я люблю тебя ', sticker: "/images/lovecat.webp" },
+    { text: 'Дильназ,ты девушка с самым разнообразным вкусом в музыке', sticker: "images/catlmusic.webp" },
+    { text: 'И самая милая девушка', sticker: "images/cute.webp" },
+    { text: 'Самая грациозная', sticker: "images/gracia.gif" },
+    { text: 'С самой прекрасной улыбкой', sticker: "images/laughcat.webp" },
+    { text: 'Ты самая умная', sticker: "images/smartcat.webp" },
+    { text: 'И самая позитивная ', sticker: "images/positivecat.gif" },
+    { text: 'Ты просто сногсшибательная', sticker: "images/snogcat.webp" },
+    { text: 'С самым чутькой вкусом выбора чая', sticker: "images/teacat.webp" },
+    { text: 'Ты лучшая мотиватерша (Работай нигер,работай)', sticker: "images/motivated.gif" },
+    { text: 'Самая заботливая ', sticker: "images/carecat.webp" },
+    { text: 'Ты самая самая,я люблю тебя ', sticker: "images/lovecat.webp" },
   ];
 
   const topText = (
